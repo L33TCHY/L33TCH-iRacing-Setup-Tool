@@ -74,6 +74,3 @@ https://github.com/L33TCHY/L33TCH-iRacing-Setup-Tool/issues
 Euer Feedback ist entscheidend, um aus diesem Tool ein stabiles und benutzerfreundliches Programm zu machen.  
 Jede Rückmeldung – ob Fehler oder Verbesserungsidee – hilft!
 
-
-<iframe id='kofiframe' src='https://ko-fi.com/l33tch/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='l33tch'></iframe>
-

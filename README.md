@@ -20,7 +20,7 @@ Mit dieser Testversion möchten wir:
 
 ## 📥 Installation
 
-1. Lade die Datei
+1. Lade die Datei https://github.com/L33TCHY/L33TCH-iRacing-Setup-Tool/releases
 aus der bereitgestellten Quelle herunter.
 
 2. Führe die Datei aus.  

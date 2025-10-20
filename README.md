@@ -47,7 +47,7 @@ Wenn etwas nicht funktioniert oder merkwürdig aussieht:
 - Wenn möglich: Screenshot
 
 2. Sende die Rückmeldung über den vereinbarten Kanal  
-(z. B. E-Mail, Chatgruppe oder internes Ticketsystem).
+https://github.com/L33TCHY/L33TCH-iRacing-Setup-Tool/issues
 
 ---
 
